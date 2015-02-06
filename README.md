@@ -47,7 +47,9 @@ and finally we make the table by using
 
 
 
-after using it its look like 
+after using it, its look like this
+
+
 ![enter image description here](https://scontent-a-lax.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1507741_785972954814983_3551661455207462961_n.jpg?oh=addd23c0353e5f94768fe399aeae503e&oe=554F2182)
 
 
