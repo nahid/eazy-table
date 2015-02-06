@@ -36,24 +36,3 @@ class Table{
 }
 
 
-$tbl=new Table;
-
-
-$table=[
-	'header'=>['ID', 'Name', 'Dept'],
-	'data'=>[
-		[2, 'Nahid', 'CSE'],
-		[3, 'Firoz', 'CSE'],
-		[4, 'Jannat', 'BBA'],
-		[5, 'Bijoy', 'CSE']
-	]
-];
-
-
-
-
-
-$tbl->make($table, ['border'=>1,'width'=>200]);
-
-
-
